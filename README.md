@@ -70,9 +70,6 @@ git clone git@github.com:microsoft/markitdown.git
 cd markitdown
 pip install -e 'packages/markitdown[all]'
 ```
-cd markitdown
-pip install -e 'packages/markitdown[all]'
-
 ## Usage
 
 ### Command-Line
